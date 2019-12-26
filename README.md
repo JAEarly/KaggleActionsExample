@@ -1,7 +1,8 @@
 # Kaggle Actions Example
 
-This repository provides an example of how to interact with the [Kaggle API](https://github.com/Kaggle/kaggle-api) in [GitHub actions](https://github.com/features/actions).  
-The example action can be found [here](.github/workflows/kaggle_api_action_example.yml).
+This repository provides an example using the [Kaggle API](https://github.com/Kaggle/kaggle-api) within [GitHub actions](https://github.com/features/actions).  
+The example action can be found [here](.github/workflows/kaggle_api_action_example.yml).  
+A more in-depth description of the purpose and functionality of this code can be found [here](https://towardsdatascience.com/reproducible-data-science-using-kaggle-and-github-actions-b0d78380bf8e).
 
 ![badge](https://github.com/JAEarly/KaggleActionsExample/workflows/Kaggle%20API%20Action%20Example/badge.svg)
 
