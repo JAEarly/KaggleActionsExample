@@ -3,6 +3,8 @@
 This repository provides an example of how to interact with the [Kaggle API](https://github.com/Kaggle/kaggle-api) in [GitHub actions](https://github.com/features/actions).  
 The example action can be found [here](.github/workflows/kaggle_api_action_example.yml).
 
+![badge](https://github.com/JAEarly/KaggleActionsExample/workflows/Kaggle%20API%20Action%20Example/badge.svg)
+
 ## Example Breakdown
 
 The steps for accessing the Kaggle API via an action are follows:
